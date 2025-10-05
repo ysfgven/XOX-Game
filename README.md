@@ -49,7 +49,7 @@
   - `.gitignore` → Git tarafından göz ardı edilecek dosyalar
 
 ## **Bilinen Sorunlar**
-
+- Terminal temizleme komutları Windows özel olduğu için farklı platformlarda çalışmaz
 - İki kullanıcı da aynı girdiyi alabiliyor (X/O)
 - GUI yok console uygulamasıdır
 
