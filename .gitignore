@@ -1,0 +1,33 @@
+# Ignore CMake build folders
+cmake-build-debug/
+cmake-build-release/
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore debug files
+*.pdb
+*.idb
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+
+# Ignore Visual Studio files (if applicable)
+.vs/
+.vscode/
+
+# Ignore OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE-specific files
+.idea/
